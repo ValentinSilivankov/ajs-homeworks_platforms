@@ -1,0 +1,19 @@
+{
+  "name": "@valentinsilivankov/ajs-homeworks_platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ValentinSilivankov/ajs-homeworks_platforms.git"
+  },
+  "author": "LiTiN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinSilivankov/ajs-homeworks_platforms/issues"
+  },
+  "homepage": "https://github.com/ValentinSilivankov/ajs-homeworks_platforms#readme"
+}
